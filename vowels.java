@@ -1,5 +1,5 @@
 import java.util.*;
-public class Main
+public class vowels
 {
 	public static void main(String[] args)
 	{
