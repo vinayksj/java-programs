@@ -1,5 +1,5 @@
 
-public class Main
+public class Palindrome
 {
 	public static void main(String[] args) {
 	    
@@ -15,8 +15,8 @@ public class Main
 	        pal=pal*10+dig;
 	    }
 	    if(temp==pal)
-		System.out.print("paladrome");
+		System.out.print("palindrome");
 		else
-		System.out.print("not paladrome");
+		System.out.print("not palindrome");
 	}
 }
